@@ -1,0 +1,14 @@
+{
+    "name": "Dactyl_CC",
+    "vendorId": "0x444E",
+    "productId": "0x1407",
+    "matrix": {
+        "rows": 5,
+        "columns": 12
+    },
+    "layouts": {
+        "keymap": [
+            
+        ]
+    }
+}
